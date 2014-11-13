@@ -1,7 +1,7 @@
 My_JavaPrograms
 ===============
 
-JavaPrograms at Ideone
+Here is a collection of my JavaPrograms at Ideone
 
 http://ideone.com/U1Fcjl
 http://ideone.com/4hqnvr
